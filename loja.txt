@@ -1,0 +1,4 @@
+torta 90.00
+velinha 2.00
+salgadinho 100.00
+leite 5.00
